@@ -10,4 +10,4 @@ The script takes 2 arguments;
 2. type -> Here, the type means if the password will be in uppercase or lowercase.
 
 - in this case you can pass "u" for uppercase or "l" for lowercase as the type arguments
-![Alt text](/home/kevo?raw=true "Title")
+)
