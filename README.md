@@ -1,5 +1,6 @@
 Python script that generates a random password
-#Usage
+
+<h1>Usage</h1>
 1. Run the script and it will generate a 8 character Random password
 
 ##Arguments
