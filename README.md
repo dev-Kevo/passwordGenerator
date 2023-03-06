@@ -11,3 +11,5 @@ The script takes 2 arguments;
 
 - in this case you can pass "u" for uppercase or "l" for lowercase as the type arguments
 
+<img src="/home/kevo"/ alt="passworGen screenshot">
+
