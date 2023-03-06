@@ -4,7 +4,8 @@ Python script that generates a random password
 1. Run the script and it will generate a 8 character Random password
 
 <h2>Arguments</h2>
-The script takes 2 arguments; that is
+The script takes 2 arguments;
+
 1. length -> Default 8, but you can specify your length
 2. type -> Here, the type means if the password will be in uppercase or lowercase.
 
