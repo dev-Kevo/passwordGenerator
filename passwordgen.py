@@ -13,7 +13,7 @@ def passwordGenerator(length=8, type=None):
 
     generated_password = ''.join(
         random.choices((pass2 + pass1 + pass3), k=length))
-
+        #testing
     if type == "u":
         password = "".join(pass2)
         print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
